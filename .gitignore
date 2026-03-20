@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Environment variables (IMPORTANT)
+.env
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Optional
+
+ngrok.exe
