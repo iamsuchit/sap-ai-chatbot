@@ -1,6 +1,6 @@
 # 🤖 AI WhatsApp Chatbot (RAG-based)
 
-🚀 Live Demo: https://ai-chatbot-4k3o.onrender.com  
+🚀 Live Demo: [https://ai-chatbot-4k3o.onrender.com ](https://ai-chatbot-4k3o.onrender.com) 
 
 An AI-powered WhatsApp chatbot that answers user queries using business data (PDFs) and simulates a Swiggy/Zomato-style assistant.
 
@@ -32,23 +32,6 @@ User → WhatsApp → Twilio → FastAPI → LangChain → OpenAI → FAISS → 
 - Python
 
 
-# 🤖 SAP AI Chatbot (WhatsApp + FastAPI + RAG)
-
-An intelligent **AI-powered WhatsApp chatbot** built using **FastAPI, LangChain, and OpenAI**, capable of answering business-related queries from multiple PDF documents and simulating a **Swiggy/Zomato-style conversational assistant**.
-
----
-
-## 🚀 Features
-
-* 📄 Multi-PDF document processing
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 🤖 Conversational AI (natural responses)
-* 💬 WhatsApp webhook integration
-* 🛒 Basic order handling flow
-* 🧩 Modular and scalable architecture
-* 👥 Per-user memory (session-based)
-
----
 
 ## 🏗️ Project Structure
 
